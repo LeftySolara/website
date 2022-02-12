@@ -1,6 +1,5 @@
 ---
 title: "Personal Knowledge Management"
-description: "A description of my personal knowledgement system"
 series: ["Personal Knowledge Management"]
 categories: ["productivity"]
 tags: ["knowledge management", "productivity", "gtd"]

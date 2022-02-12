@@ -11,8 +11,16 @@ disqusShortname = ""
 # page of your blog.
 [author]
 name = "Julianne"
-slogon = ""
-description = "This site is currently under construction."
+slogon = "A highly-motivated IT professional with an interest in software engineering."
+description = """
+If you are interested in any of my projects, feel free to check out my
+[GitHub](https://github.com/LeftySolara) and [GitLab](https://git.julianneadams.info/LeftySolara) profiles.
+I also keep a personal knowledge base [here](https://wiki.julianneadams.info).
+
+To see what I'm working on now, please visit my [Now Page](https://julianneadams.info/now).
+
+I can be reached by email at [julianne@julianneadams.info](mailto:julianne@julianneadams.info).
+"""
 
 [params]
 # iam is the beginning words of your self-introduction.
@@ -78,9 +86,13 @@ weight = 3
 name = "Series"
 url = "/series"
 weight = 4
+#[[menu.main]]
+#name = "About"
+#url = "/about"
+#weight = 5
 [[menu.main]]
-name = "About"
-url = "/about"
+name = "Now"
+url = "/now"
 weight = 5
 
 

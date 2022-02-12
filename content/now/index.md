@@ -18,4 +18,6 @@ What I'm Reading:
 - [Getting Things Done: The Art of Stress-Free Productivity](https://www.amazon.com/Getting-Things-Done-Stress-Free-Productivity/dp/0670899240/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=)
 - [Unf\*ck Your Habitat: You're Better Than Your Mess](https://www.amazon.com/Unf-Your-Habitat-Youre-Better/dp/1250102952?tag=smarturl-20) by Rachel Hoffman
 
+This post was last updated February 11, 2022.
+
 _Inspired by [Derek Sivers](https://sive.rs/nowff)_.

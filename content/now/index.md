@@ -9,7 +9,7 @@ draft: false
 - Building my own [personal knowledge base](https://wiki.julianneadams.info)
 - Creating my own [personal website](https://julianneadams.info)
 - Working to improve my computer science knowledge
-- Working on [SegmentationFault](https://git.julianneadams.info/LeftySolara/programming-forum-frontend), a programming forum
+- Working on [SegmentationFault](https://git.julianneadams.info/LeftySolara/segmentationfault-frontend), a programming forum
 - Starting a vinyl record collection
 - Playing a lot of Final Fantasy XIV
 

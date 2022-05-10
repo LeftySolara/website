@@ -15,9 +15,9 @@ draft: false
 
 What I'm Reading:
 
-- [Salt, Fat, Acid, Heat: Mastering the Elements of Good Cooking](https://www.amazon.com/Salt-Fat-Acid-Heat-Mastering/dp/1476753830/ref=sr_1_1?keywords=salt+fat+acid+heat&qid=1646230423&sr=8-1) by Samin Nosrat
-- [Unf\*ck Your Habitat: You're Better Than Your Mess](https://www.amazon.com/Unf-Your-Habitat-Youre-Better/dp/1250102952?tag=smarturl-20) by Rachel Hoffman
+- [CODE: The Hidden Language of Computer Hardware and Software](https://www.charlespetzold.com/code/) by Charles Petzold
+- [Bittersweet: How Sorrow and Longing Make Us Whole](https://susancain.net/book/bittersweet/#) by Susan Cain
 
-This post was last updated March 2, 2022.
+This post was last updated May 10, 2022.
 
 _Inspired by [Derek Sivers](https://sive.rs/nowff)_.

@@ -9,15 +9,15 @@ draft: false
 - Building my own [personal knowledge base](https://wiki.julianneadams.info)
 - Creating my own [personal website](https://julianneadams.info)
 - Working to improve my computer science knowledge
-- Working on [Segfault](https://git.julianneadams.info/segfault), a programming forum
+- Working on [Pantomime](https://git.julianneadams.info/LeftySolara/pantomime), an NCURSES-based MPD client
 - Starting a vinyl record collection
-- Playing a lot of Final Fantasy XIV
+- Playing a _lot_ of Final Fantasy XIV
 
 What I'm Reading:
 
-- [CODE: The Hidden Language of Computer Hardware and Software](https://www.charlespetzold.com/code/) by Charles Petzold
-- [Bittersweet: How Sorrow and Longing Make Us Whole](https://susancain.net/book/bittersweet/#) by Susan Cain
+- [Your Brain's Not Broken: Strategies for Navigating Your Emotions and Life with ADHD](https://www.amazon.com/Your-Brains-Not-Broken-Strategies/dp/0800739426)
+- [The UNIX Programming Environment](https://www.amazon.com/Unix-Programming-Environment-Prentice-Hall-Software/dp/013937681X)
 
-This post was last updated August 22, 2022.
+This post was last updated October 26, 2022.
 
 _Inspired by [Derek Sivers](https://sive.rs/nowff)_.

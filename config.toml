@@ -1,7 +1,7 @@
 baseURL = "http://julianneadams.info"
 languageCode = "en-us"
 title = "Julianne Adams"
-copyright = "© Julianne Adams 2022"
+copyright = "© Julianne Adams 2023"
 theme = "minima"
 paginate = 7
 googleAnalytics = ""

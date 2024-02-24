@@ -1,7 +1,7 @@
 baseURL = "http://julianneadams.info"
 languageCode = "en-us"
 title = "Julianne Adams"
-copyright = "© Julianne Adams 2023"
+copyright = "© Julianne Adams 2024"
 theme = "minima"
 paginate = 7
 googleAnalytics = ""
@@ -13,6 +13,17 @@ disqusShortname = ""
 name = "Julianne"
 slogon = "A highly-motivated IT professional with an interest in software engineering."
 description = """
+**2024 UPDATE**: *I am in the process of moving to a new website, which can be found [here](https://julianneadams.dev).*
+*My knowledge base will also be moving. You can find the new version [here](https://wiki.julianneadams.dev).*
+
+*This site will no longer be maintained for the forseeable future, and will be taken down at some point.*
+
+*If you would like to get in touch, please send me an email at my new address: [julianne@julianneadams.dev](mailto:julianne@julianneadams.dev).*
+
+*Below is the content that was here previously. I have left it up for historical purposes.*
+
+---
+
 If you are interested in any of my projects, feel free to check out my
 [GitHub](https://github.com/LeftySolara) and [GitLab](https://git.julianneadams.info/LeftySolara) profiles.
 I also keep a personal knowledge base [here](https://wiki.julianneadams.info).
